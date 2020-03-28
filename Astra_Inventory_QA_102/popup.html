@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<!--Начало первого блока объяснения кода-->
+<head>
+  <meta charset="utf-8">
+  <title>AstrOne Debug Tool</title>
+  <script src="popup.js"></script>
+
+  <style>
+  	@font-face {
+		font-family: "Acrom";
+		src: url("/fonts/Actom-Medium.ttf");
+		font-weight: bold;
+		font-style: normal;
+	}
+
+	@font-face {
+		font-family: "Acrom";
+		src: url("/fonts/Actom-Regular.ttf");
+		font-weight: normal;
+		font-style: normal;
+	}
+
+  	body {
+  		font-family: Acrom;
+  		font-weight: normal;
+  		font-size: 13px;
+  		width: 400px;
+  		background-image: url("bg-top.png");
+  	}
+  	div {
+  		margin: 5px;
+  		color: black;
+  	}
+
+  	span {
+  		margin-bottom: 0px;
+  		font-family: Acrom;
+  		font-weight: bold;
+  		font-size: 15px;
+  		color: #b72439;
+  		margin: 0 5px 5px 5px;
+  	}
+
+  	.element > div{
+  		margin: 5px;
+  		background-color: white;
+  		opacity: 0.8;
+  		padding: 5px;
+  	}
+
+  	#logo-img {
+  		display: block;
+  		width: 50%;
+  		margin: auto; 
+  		margin-bottom: 10px;
+  	}
+
+  	#err {
+  		border: 1px solid red;	
+  	}
+  	#load {
+  		border: 1px solid green;
+  	}
+
+  </style>
+</head>
+<body>
+<img id="logo-img" src="astra-logo.png">
+<div class="element">
+	<span class="descr">Дата индексации URL:</span>
+	<div class="indexDate"></div>
+</div>
+<div class="element">
+	<span class="descr">Интеграция Astra на странице:</span>
+	<div class="astraIntegrated"></div>
+</div>
+<div class="element">
+	<span class="descr">Каналы WLBS:</span>
+	<div class="wlbs"></div>
+</div>
+<div class="element">
+	<span class="descr">Другие каналы:</span>
+	<div class="otherChannels"></div>
+</div>
+<div class="element">
+	<span class="descr">Рекламодатели:</span>
+	<div class="advertisers"></div>
+</div>
+<div class="element" style="display: none;">
+	<span class="descr">Блокирующие слова:</span>
+	<div class="blockedWord">
+		<div class="skw_t">Skw_t:<br>
+		</div>
+		<div class="fkw_t">Fkw_t:<br>
+		</div>
+	</div>
+</div>
+<div class="element">
+	<span class="descr">Слова на странице:</span>
+</div>
+</body>
+</html>
