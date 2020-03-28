@@ -1,0 +1,9 @@
+# AstraOne Chrome Extension for Inventory QA
+  - Indexing date
+  - Integration check
+  - What advertisers bet
+  - Image categories found on page
+  - Words that are collected for Brand Safety checking purposes
+
+ 
+![](https://lh3.googleusercontent.com/UcbcXqH-8jdbEOG-iB4RmKkJnd9ThVUl_6F5wqU_mxsG0vncBKyKRMBX9ROwD57YaaXhUqV0UV0oVjC1NhUXvJb8ICciNYhi-0uJqN3U9RylxFtGF0NCI8iDha6UDdVZKgy-YrI-KOv1CGs9iXmBs-qWbF7hsiaO8q5CQSTvs-KNbj019tq0LXBOoX9Ea16gxjR7Wv9Vkbjg__NtVDmrovlD_P_temmWePhn8KDRZ4sBEu3Y0JvDGaoFQCIxxcXyziVJ4-uTcYQs-Wh5rimzczFN7WwYrMqAWe85ngHdZmRUY7WtWI8B9afFNUwEqQvSvOqB9YtrsPYXI9goDX-YUYwsEu2ipbVgB0G3CT1dMvPNF07mUMk_WF8cdtxQP-WWNhrD83zWYVvG630mvRxV9B2I63mKInbENtQsr4c4VUAOfNjEb-XsHfJrB6CCwg-ReaE6eYlJnkwSqAvd60uaaTFBZRmkAd8INOwq-q3-jpjljdLyDyZlkj9vtUsLxoXfbLwkHdrwopg5HlhSvnYsi_dnRKCZsHgrwFdONQ7MRPiltjCFwP25KXDG6Ef34CN9u_oCBs6VQLZkA46qsLOB_XjL6OkuCxZ7J3gw7xgUEVZc_rn6q9Y6jd5QGDmLxnXIxEO_Dv_fDP68d1-hGj81miPiWcIaZb1NgOAES69QESJF22FRxfAQ_T6FWvDd=w1260-h719-no)
